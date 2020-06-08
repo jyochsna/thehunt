@@ -11,7 +11,7 @@ Unlock It! is a virtual scavenger hunt. As a result of the 2020 Covid-19 crisis,
 * Design a method of creating and playing a virtual scavenger hunt
 * Allow students to explore the world from their very own homes
 
-### Project Images
+### Project Images:
 <img src="https://res.cloudinary.com/damplk/image/upload/v1589403043/unlockit/00_home_o6q0zr.png" alt="Home Page Logged Out" width="750">
 <img src="https://res.cloudinary.com/damplk/image/upload/v1589403042/unlockit/00_login_sxtx7b.png" alt="Login" width="750">
 <img src="https://res.cloudinary.com/damplk/image/upload/v1589401280/unlockit/sm_unlockit_pbefho.png" alt="Home Page Logged In" width="750">
